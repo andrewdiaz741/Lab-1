@@ -1,2 +1,3 @@
 # Lab-1
-First Lab for CISC 3130
+
+The program in this repository outputs Hello World
